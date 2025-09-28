@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(python test_gbpaud_backtest.py:*)",
+      "Bash(python:*)",
+      "Bash(git push:*)",
+      "Bash(pip install:*)",
+      "Bash(streamlit run:*)",
+      "Read(//c/Users/User/Desktop/**)",
+      "Bash(findstr:*)",
+      "Bash(cmd /c:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
